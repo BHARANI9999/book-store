@@ -475,7 +475,7 @@
 }
 
 .newsletter{
-    background:url(/images/letter-bg2.jpg) no-repeat;
+    background:url(images/letter-bg2.jpg) no-repeat;
     background-size: cover;
     background-position: top ;
     background-attachment: fixed;
